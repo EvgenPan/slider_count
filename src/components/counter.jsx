@@ -82,6 +82,7 @@ import {logDOM} from "@testing-library/react";
 // }
 //
 // export default Counter;
+
 const Counter = () => {
     const arr = ['Orks', 'Stones', 'River', 'Hell', 'Сastle']
     const [prevEvent, event] = useState(

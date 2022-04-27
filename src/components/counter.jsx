@@ -104,6 +104,7 @@ const Counter = () => {
             <button onClick={func}>go left</button>
             <button onClick={func}>go right</button>
             <button onClick={func}>go back</button>
+
         </div>
     );
 };
